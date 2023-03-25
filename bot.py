@@ -24,7 +24,7 @@ logging.basicConfig(
 
 ocpus = 1
 memory_in_gbs = 1
-wait_s_for_retry = 10
+wait_s_for_retry = 15
 
 logging.info("#####################################################")
 logging.info("Script to spawn VM.Standard.E2.1.Micro instance")
